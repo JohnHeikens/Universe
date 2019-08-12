@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\gebruiker\Documents\Github\include\include\collisions.h(8,38): warning C4227:  anachronism used: qualifiers on reference are ignored
+C:\Users\gebruiker\Documents\Github\include\include\collisions.h(8,71): warning C4227:  anachronism used: qualifiers on reference are ignored
+C:\Users\gebruiker\Documents\Github\include\include\collisions.h(9,39): warning C4227:  anachronism used: qualifiers on reference are ignored
+C:\Users\gebruiker\Documents\Github\include\include\collisions.h(9,55): warning C4227:  anachronism used: qualifiers on reference are ignored
+C:\Users\gebruiker\Documents\Github\include\include\collisions.h(9,71): warning C4227:  anachronism used: qualifiers on reference are ignored
+C:\Users\gebruiker\Documents\Github\include\include\timemath.h(10,13): warning C4244:  'return': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\gebruiker\Documents\Github\Planets c++\Part 6\main.cpp(149,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Part 6.vcxproj -> C:\Users\gebruiker\Documents\Github\Planets c++\x64\Debug\Project.exe
